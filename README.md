@@ -17,7 +17,6 @@ Precipitation Analysis
     Use Pandas to print the summary statistics for the precipitation data.
 
 ![precipitation bar chart](/Images/maximum_daily_precipitation.png)
-Format: ![Alt Text](url)
 
 Station Analysis
 
@@ -37,7 +36,6 @@ Station Analysis
         Plot the results as a histogram with bins=12.
 
 ![temperature histogram](/Images/annual_temperatures_in_Hawaii.png)
-Format: ![Alt Text](url)
 
 
 Step 2 - Climate App
@@ -117,7 +115,6 @@ Temperature Analysis II
     Use the peak-to-peak (TMAX-TMIN) value as the y error bar (YERR).
 
 ![Average temperature during trip](/Images/trip_avg_temp.png)
-Format: ![Alt Text](url)
 
 
 Daily Rainfall Average
@@ -133,6 +130,6 @@ Daily Rainfall Average
     Load the list of daily normals into a Pandas DataFrame and set the index equal to the date.
 
     Use Pandas to plot an area plot (stacked=False) for the daily normals.
-
-![Trip temperatures](/Images/trip_temperatures_feb_1-16.png)
-Format: ![Alt Text](url)
+<p>
+    <img src="/Images/trip_temperatures_feb_1-16.png" width="100" heigth="100"/>
+</p>
