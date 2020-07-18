@@ -17,6 +17,7 @@ climate analysis and data exploration using sqlalchemy
 * Use Pandas to print the summary statistics for the precipitation data.
 
 ![precipitation bar chart](Images/maximum_daily_precipitation.png)
+Format: ![Bar chart showing maximum daily precipitation in Hawaii between August 23rd, 2016 and August 23rd, 2017](url)
 
 ## Station Analysis
 
@@ -36,6 +37,7 @@ climate analysis and data exploration using sqlalchemy
     * Plot the results as a histogram with bins=12.
 
 ![temperature histogram](Images/annual_temperatures_in_Hawaii.png)
+Format: ![Histogram showing annual temperature distribution in Hawaii](url)
 
 
 ## Climate App
@@ -115,6 +117,7 @@ Use Flask to create your routes.
 * Use the peak-to-peak (TMAX-TMIN) value as the y error bar (YERR).
 
 ![Average temperature during trip](Images/trip_avg_temp.png)
+Format: ![Graph showing the average temperature in Hawaii during the first half of February, 2017](url)
 
 
 ## Daily Rainfall Average
@@ -132,3 +135,4 @@ Use Flask to create your routes.
 * Use Pandas to plot an area plot (stacked=False) for the daily normals.
 
 ![Trip temperatures](Images/trip_temperatures_feb_1-16.png)
+Format: ![Graph of temperatures in Hawaii between February 1st and February 16th, 2017](url)
